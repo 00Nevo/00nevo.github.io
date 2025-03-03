@@ -1,4 +1,3 @@
-# Welcome to my GitHub Page ! !
 
 - 👋 Hello, i’m @GravityOnline i speak french, spanish, italian, english and german.
 - 👀 I’m interested in doing some networking here and completed my bachelor in Gerontology in Vechta in Germany. Gerontology is an interdisciplinary science that researches ageing https://en.wikipedia.org/wiki/Gerontology . In my degree, to cite a few subjects, i studied sociology, psychology, politics, economy, health care/medicine/neuroscience, education science, social law, empirical social methods with SPSS and i even attended an ArcGis and R course offered by the faculty of geography. 
