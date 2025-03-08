@@ -17,3 +17,11 @@ I'm really excited to blog my journey on GitHub.com.
 <li><a href="https://github.com/{{ site.github_username
 }}">GitHub</a></li>
 </ul>
+
+<ul>
+{% for post in site.posts %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
