@@ -35,9 +35,3 @@ You can contact me via email: **[albertoborgato9@googlemail.com](mailto:albertob
 - The first operating system I learned (other than Windows) was **Mac OS**. I used to experiment with **Photoshop** and **Illustrator** because my mom had a design studio. I particularly enjoyed creating in **Bryce**.
 - I had a **MySpace** page back in the day, and from 2008 to 2019, I was the **webmaster** for a website with over 2,000 users. This experience gave me a lot of insight into **moderation** and occasional **code checks**.
 
-
-
-<!--- 
-AperfectGravity/AperfectGravity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
