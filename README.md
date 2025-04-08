@@ -4,27 +4,32 @@ Hello! I'm **@00Nevo**, and I'm excited to connect and collaborate with the GitH
 
 ### About Me
 - **Languages I Speak**: French, Spanish, Italian, English, and German.
-- 
 - **Background**: I completed my **Bachelor's in Gerontology** at Vechta University in Germany. Gerontology is an interdisciplinary field focused on the study of aging. During my studies, I covered a wide range of topics, including:
     - Sociology, Psychology, Politics, and Economics
     - Healthcare, Medicine, and Neuroscience
     - Education Science, Social Law, and Empirical Social Methods (using SPSS)
     - I even attended courses on **ArcGIS** and **R** (for statistical analysis) through the Faculty of Geography.
 
-### Currently Learning 🌱
+# Currently Learning 🌱
 I am currently focusing on:
-- **R**: Enhancing my skills in statistical analysis and data science.
-- **Lua**: Exploring game development and scripting with Lua.
 - **Python**: Deepening my knowledge in programming and automation.
-- **HTML**: Improving my web development skills and creating accessible websites.
-- **Git** and **GitHub**: Continuing to learn how to effectively collaborate and manage projects using version control.
+- **Java**: Learning object-oriented programming and developing scalable applications.
+- **JavaScript**: Improving my skills in web development and interactive front-end development.
 
-### Collaboration & Projects 💞
+# Additional Secondary Interests 💡
+I'm also exploring and interested in:
+- **R**: Data science and statistical analysis.
+- **SQL**: Database management and querying.
+- **C++**: System programming and performance optimization.
+- **Rust**: Safe and efficient systems programming.
+- **Clojure**: Functional programming and concurrency.
+
+# Collaboration & Projects 💞
 I'm particularly interested in collaborating on projects involving:
 - **R**: Data science and statistical analysis.
-- **Lua**: Game development and scripting.
+- **HTML**: Web development and creating websites.
 - **Python**: Programming, automation, and data analysis.
-- **HTML**: Web development and creating functional websites.
+
 
 If you have any beginner-friendly project suggestions or ideas, feel free to reach out! I'd love to collaborate or discuss ideas.
 
